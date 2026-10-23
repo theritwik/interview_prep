@@ -186,3 +186,36 @@ Think aloud to keep interviewers engaged.
 Write clean code and explain your choices.
 Handle feedback gracefully and iterate.
 Stay calm and confident — interviewers value your problem-solving mindset as much as your final answer.
+
+Definition and Core Understanding
+An example is a specific instance or case used to illustrate, clarify, or demonstrate a concept, idea, or method. Examples help bridge the gap between abstract theory and practical understanding by showing how something works in a concrete situation.
+
+Step-by-Step Explanation
+Abstract Concept: You start with a general idea or rule.
+Concrete Instance: You provide a specific case that fits the rule.
+Demonstration: The example shows how the concept applies in that case.
+Clarification: It helps clarify the concept by making it tangible.
+Real-world Examples
+Teaching math: To explain addition, you might say, "If you have 2 apples and get 3 more, you have 5 apples."
+Programming: To explain a function, you show input and output examples.
+Everyday life: To explain a recipe, you provide a step-by-step example of making a dish.
+Code Snippet Example in Python
+Copy
+python
+def add(a: int, b: int) -> int:
+    """
+    Adds two integers and returns the result.
+
+    Example:
+        add(2, 3) returns 5
+    """
+    return a + b
+
+# Usage example
+
+result = add(2, 3)
+print(f"add(2, 3) = {result}")  # Output: add(2, 3) = 5
+Common Misunderstandings and Mistakes
+Using examples that are too complex or too simple, which can confuse rather than clarify.
+Assuming the example covers all cases (an example is not a proof).
+Not explaining why the example is relevant.
